@@ -21,10 +21,9 @@ def calculate(a,b):
         return result
 
     else:
-            #print("you have entered wrong choice")
-            #result = None
         return("you have entered wrong choice")
     
 
 answer = calculate(x,y)
+
 print("the final answer is :", answer)     
